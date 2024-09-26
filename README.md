@@ -1,1 +1,1 @@
-# Live-Smart
+# Live Smart
