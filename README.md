@@ -1,7 +1,7 @@
 # Live Smart
 Live Smart is a home automation system that allows users to control home appliances remotely through a Django-powered web application and an Android app using Bluetooth and internet-connected devices like BT Display. The system leverages machine learning to predict electricity bills in advance and provide insights into energy usage, contributing to an average 20% reduction in monthly utility expenses. ESP32 microcontrollers were used to connect and control devices such as lamps, fans, and lights.
 
-blob:https://web.whatsapp.com/4fad75d1-f23d-4255-8b60-54dec8718f88![image](https://github.com/user-attachments/assets/4e9ede01-39f5-4ed8-9e05-5cbec1e100b0)
+![image](https://github.com/user-attachments/assets/01eef493-0118-4d8d-90b4-b22f1056c983)
 
 
 Hardware Working
